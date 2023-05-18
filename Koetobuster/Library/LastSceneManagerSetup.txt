@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/03_Play.unity
+=======
+- path: Assets/Scenes/Voice.unity
+>>>>>>> a133797c0e31bb05167778f475479719a880d544
   isLoaded: 1
   isActive: 1
   isSubScene: 0

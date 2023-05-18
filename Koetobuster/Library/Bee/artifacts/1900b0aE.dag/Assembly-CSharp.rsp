@@ -346,12 +346,18 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+<<<<<<< HEAD
 "Assets/Scripts/00_All/SceanManager.cs"
 "Assets/Scripts/02_NowLoading/NowLoading.cs"
 "Assets/Scripts/03_Play/SetCursor.cs"
 "Assets/Scripts/99_Gomi/Attack.cs"
 "Assets/Scripts/99_Gomi/Doa.cs"
 "Assets/Scripts/99_Test/Voice.cs"
+=======
+"Assets/Scripts/Attack.cs"
+"Assets/Scripts/Doa.cs"
+"Assets/Scripts/Voice.cs"
+>>>>>>> a133797c0e31bb05167778f475479719a880d544
 -langversion:9.0
 
 /deterministic
